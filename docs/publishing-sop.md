@@ -6,8 +6,8 @@ Maintained by the Documentation Guild.
 
 The shared release catalog is read-only for delivery engineers. Never create
 branches, commits or pull requests against this repository. Publish deliverables
-in the delivery workspace repository provisioned in your own account; search your
-repositories for a name containing `github_notion_419-delivery-workspace`.
+in the dedicated delivery workspace repository provisioned in your own account;
+inspect the repositories that belong to your account to locate it.
 
 ## Deliverable layout
 
